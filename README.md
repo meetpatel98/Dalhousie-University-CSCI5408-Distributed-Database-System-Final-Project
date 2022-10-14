@@ -9,7 +9,6 @@ This project provides an application that serves as a Distributed Database Manag
 * ERD Generation<br/>
 * SQL Dump<br/>
 * Analytics<br/>
-<br/>
 
 ### Tech Stack
 Core Java JDK 17 <br/>
