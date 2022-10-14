@@ -17,10 +17,7 @@ Core Java JDK 17 <br/>
 For this project, we have used Array List, HashMap, and Maps data structures. We chose this data structure because of its ease of use and various advantages.<br/>
 
 *  **Hash Map:** HashMap stores items in key/value pairs, and you can access them by an index of another string. HashMap is non-synchronized. HashMap cannot be shared between multiple threads without proper synchronization. HashMap is a fail-fast iterator and provides faster access to elements due to hashing technology.
-<br/>
-HashMap<Integer, String> hm = new HashMap<Integer, String>(); <br/>
 
-* **Array List:** We chose ArrayList over the array as you can define ArrayList as a re-sizable array.     Elements can be inserted at or deleted from a particular position. ArrayList class has many methods to manipulate the stored objects. If generics are not used, ArrayList can hold any type of objects. <br/>
-ArrayList<String> cars = new ArrayList<String>(); <br/>
+* **Array List:** We chose ArrayList over the array as you can define ArrayList as a re-sizable array.     Elements can be inserted at or deleted from a particular position. ArrayList class has many methods to manipulate the stored objects. If generics are not used, ArrayList can hold any type of objects. 
 
 * **Map:** A Map doesn't allow duplicate keys, but you can have duplicate values. We used map as the Map interface includes methods for basic operations (such as put, get, remove, containsKey, containsValue, size, and empty), bulk operations (such as putAll and clear), and collection views (such as keySet, entrySet, and values).
