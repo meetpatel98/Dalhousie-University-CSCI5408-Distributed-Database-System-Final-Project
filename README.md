@@ -10,7 +10,6 @@ This project provides an application that serves as a Distributed Database Manag
 * SQL Dump<br/>
 * Analytics<br/>
 <br/>
-<br/>
 
 ### Tech Stack
 Core Java JDK 17 <br/>
