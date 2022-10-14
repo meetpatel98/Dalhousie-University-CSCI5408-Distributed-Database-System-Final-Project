@@ -16,7 +16,7 @@ Core Java JDK 17 <br/>
 ### Linear Data Structure used for Query Processing
 For this project, we have used Array List, HashMap, and Maps data structures. We chose this data structure because of its ease of use and various advantages.<br/>
 
-*  **Hash Map:** HashMap stores items in key/value pairs, and you can access them by an index of another string. HashMap is non-synchronized. HashMap cannot be shared between multiple threads without proper synchronization. HashMap is a fail-fast iterator and provides faster access to elements due to hashing technology.<br/>
+*  **Hash Map:** HashMap stores items in key/value pairs, and you can access them by an index of another string. HashMap is non-synchronized. HashMap cannot be shared between multiple threads without proper synchronization. HashMap is a fail-fast iterator and provides faster access to elements due to hashing technology.
 <br/>
 HashMap<Integer, String> hm = new HashMap<Integer, String>(); <br/>
 
