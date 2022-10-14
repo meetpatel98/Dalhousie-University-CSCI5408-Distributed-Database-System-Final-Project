@@ -1,0 +1,7 @@
+student	T1	last_name	
+student	T1	last_name	
+teacher	T1	last_name	
+
+
+employee	department	dept_id	
+roles	employee	emp_id	

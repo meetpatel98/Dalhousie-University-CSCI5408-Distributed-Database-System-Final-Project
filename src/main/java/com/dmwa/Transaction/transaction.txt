@@ -1,0 +1,22 @@
+Transaction ID: da483612-18e7-47b3-a829-b3d492e5e94a------->   Table Name: student
+Transaction ID: adef7794-f759-4e41-9fc7-2089be1a3809------->   Table Name: student
+Transaction ID: 1a41fc71-5a8b-415a-aa48-b5588fd445fe------->   Table Name: student------->   Query Type: Insert Query
+Transaction ID: 91ce2ce9-96cd-4136-9e88-a399165ff576------->   Table Name: teacher------->   Query Type: Update Query
+Transaction ID: 628cb06f-8573-4d3e-a61b-6cf393fea67b------->   Table Name: teacher------->   Query Type: Update Query
+Transaction ID: 5d8082c2-3f82-4afa-9281-c99b772d948a------->   Table Name: student------->   Query Type: Insert Query
+Transaction ID: 77b00e7e-3605-4190-aca9-fc7378602130------->   Table Name: teacher------->   Query Type: Insert Query
+Transaction ID: 75349c58-4667-4a39-acf9-2f9276801b65------->   Table Name: teacher------->   Query Type: Insert Query
+Transaction ID: da0e33df-8e74-4fea-a5b6-534dcaf07e1f------->   Table Name: teacher------->   Query Type: Insert Query
+Transaction ID: 14938665-11ed-4889-81ed-a1aff4dc714a------->   Table Name: teacher------->   Query Type: Insert Query
+Transaction ID: 3243cc86-c841-4fd4-9bea-1a1bfa26698a------->   Table Name: teacher------->   Query Type: Insert Query
+Transaction ID: 81f4a0ed-0f46-4b01-958a-29c2e932528e------->   Table Name: teacher------->   Query Type: Update Query
+Transaction ID: 35c85a76-076a-4fcb-b6bc-268820ee911b------->   Table Name: student------->   Query Type: Update Query
+Transaction ID: 03e13749-8a09-419f-b409-495404d78f4d------->   Table Name: student------->   Query Type: Update Query
+Transaction ID: 4b6eca7a-8ce0-47aa-bcbd-2c06c7fdc501------->   Table Name: student------->   Query Type: Update Query
+Transaction ID: 9bc2cfb7-71d0-4003-bd7c-e0c78ade05b8------->   Table Name: course------->   Query Type: Insert Query
+Transaction ID: ba8e3f64-e7c3-49c3-b45b-239f49ab5d6e------->   Table Name: department------->   Query Type: Insert Query
+Transaction ID: e486121f-b3ce-43b0-bd21-92defa2b3cf6------->   Table Name: department------->   Query Type: Update Query
+Transaction ID: 1648036c-e5b9-42a0-a9b0-ebb2b97634f2------->   Table Name: department------->   Query Type: Update Query
+Transaction ID: 6cafce78-3fa3-4a16-88db-ad7eca3d01a8------->   Table Name: department------->   Query Type: Insert Query
+Transaction ID: c83b33eb-4eba-4baf-9261-1ad5dea77912------->   Table Name: employee------->   Query Type: Insert Query
+Transaction ID: 214cd0e5-17f9-45f8-af58-936186e36f04------->   Table Name: roles------->   Query Type: Insert Query

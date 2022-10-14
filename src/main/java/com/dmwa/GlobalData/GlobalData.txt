@@ -1,0 +1,3 @@
+#MASTER
+@VM1~student~course~department~employee~roles
+@VM2~student~teacher
